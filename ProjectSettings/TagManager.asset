@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Fruit
+  - Trap
+  - Void
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 786170503
+    locked: 0
+  - name: 2
+    uniqueID: 2566567345
+    locked: 0
+  - name: 3
+    uniqueID: 2222520569
+    locked: 0
+  - name: 4
+    uniqueID: 850122047
+    locked: 0
+  - name: 5
+    uniqueID: 2864775253
+    locked: 0
+  - name: Player
+    uniqueID: 3798044169
+    locked: 0
+  m_RenderingLayers:
+  - Default
